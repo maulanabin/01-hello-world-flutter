@@ -7,4 +7,4 @@ Prodi : D4 Teknik Informatika <br>
 
 ## Hasil Praktikum
 
-![image](assets/images/Tugas1.png)
+![image](assets/images/Tugas1.PNG)
